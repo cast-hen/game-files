@@ -18,6 +18,11 @@ AlleVijanden = [Vijand1]
 A_Bom = ["Bom.png", "Bom", "Valt elke vijand aan voor 5 schade"]
 #A_Aanval = [Afbeelding, Aanval naam, Bescrijving aanval]
 
+class Aanval:
+    def __init__(self):
+        Afbeelding
+
+
 # Hieronder staan de hoofd functies
 
 # Menu scherm
