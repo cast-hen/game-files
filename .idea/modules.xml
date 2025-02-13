@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/../Klas 5G 2024-2025/Informatica/Code/.idea/Code.iml" filepath="$PROJECT_DIR$/../Klas 5G 2024-2025/Informatica/Code/.idea/Code.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../Klas 5G 2024-2025/Informatica/Code/Pygame/.idea/Pygame.iml" filepath="$PROJECT_DIR$/../Klas 5G 2024-2025/Informatica/Code/Pygame/.idea/Pygame.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/game files.iml" filepath="$PROJECT_DIR$/.idea/game files.iml" />
+    </modules>
+  </component>
+</project>

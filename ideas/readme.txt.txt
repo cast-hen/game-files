@@ -1,0 +1,1 @@
+hier worden alle ideeën opgeslagen in word bestanden en excel bestanden
